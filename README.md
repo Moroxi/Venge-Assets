@@ -7,3 +7,5 @@
 <p align="center">
   <img alt="Views" src="https://komarev.com/ghpvc/?username=Venge-Assets&color=green&style=for-the-badge&label=VIEWS&abbreviated=true">
 </p>
+
+Download - https://github.com/Moroxi/Venge-Assets/releases/latest
