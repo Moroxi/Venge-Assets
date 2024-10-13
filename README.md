@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://iili.io/d3veMCB.png" width="175" alt="Logo">
+  <img src="https://iili.io/2HhxJyB.png" width="175" alt="Logo">
 </p>
 
 <h1 align="center">Venge Assets</h1>
