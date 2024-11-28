@@ -9,4 +9,8 @@
   <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Moroxi/Venge-Assets/total.svg?style=for-the-badge">
 </p>
 
-(Download)[https://github.com/Moroxi/Venge-Assets/releases/latest]
+<p align="center">
+  
+  [Download](https://github.com/Moroxi/Venge-Assets/releases/latest)
+
+  </p>
