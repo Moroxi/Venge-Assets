@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  
-  [Download](https://github.com/Moroxi/Venge-Assets/releases/latest)
-
-  </p>
+  <a href="https://github.com/Moroxi/Venge-Assets/releases/latest">
+    <img alt="Download" src="https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge">
+  </a>
+</p>
