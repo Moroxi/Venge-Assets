@@ -11,6 +11,6 @@
 
 <p align="center">
   <a href="https://github.com/Moroxi/Venge-Assets/releases/latest">
-    <img alt="Download" src="https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge">
+    <img alt="Download" src="https://img.shields.io/badge/Get%20Latest%20Version-Download-orange?style=for-the-badge">
   </a>
 </p>
