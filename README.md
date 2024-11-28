@@ -8,3 +8,5 @@
   <img alt="Views" src="https://komarev.com/ghpvc/?username=Venge-Assets&color=green&style=for-the-badge&label=VIEWS&abbreviated=true">
   <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Moroxi/Venge-Assets/total.svg?style=for-the-badge">
 </p>
+
+(Download)[https://github.com/Moroxi/Venge-Assets/releases/latest]
